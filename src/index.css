@@ -1,0 +1,14 @@
+
+body {
+  margin: 0;
+  background: rgb(255, 255, 255);
+  min-height: 100vh;
+}
+
+ul{
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
